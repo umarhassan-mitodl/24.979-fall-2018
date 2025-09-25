@@ -1,0 +1,44 @@
+{
+  "term": "Fall",
+  "year": "2018",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Linguistics",
+      "Semantics"
+    ]
+  ],
+  "legacy_uid": "1dfdde2c-625f-0c70-6154-3fd19135844d",
+  "instructors": {
+    "content": [
+      "4f1e0f64-8683-92ab-883d-f10202f97a55"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "d1cebf01-8aeb-bcf2-b232-48a8f7fa65a3",
+    "website": "24-979-topics-in-semantics-negative-polarity-items-fall-2018"
+  },
+  "course_title": "Topics in Semantics: Negative Polarity Items",
+  "course_description": "This course is concerned with Negative Polarity Items. While raising familiar foundational questions for linguistic theory, Negative Polarity Items enter into complex and often revealing interactions with a host of other phenomena in grammar. Investigating several such interactions, the course touches on topics such as focus, presupposition, exhaustification, quantification, (in)definiteness, modals and attitudes, comparison and superlatives, and questions.\n",
+  "department_numbers": [
+    "24"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "24.979",
+  "course_image_thumbnail": {
+    "content": "0369526b-e92e-ea44-6de0-b51b488ab27b",
+    "website": "24-979-topics-in-semantics-negative-polarity-items-fall-2018"
+  },
+  "learning_resource_types": [
+    "Written Assignments",
+    "Lecture Notes"
+  ],
+  "site_uid": "aa3743ef-248b-4b29-aee4-155d352e045e",
+  "site_short_id": "24.979-fall-2018",
+  "site_url_path": "courses/24-979-topics-in-semantics-negative-polarity-items-fall-2018",
+  "title": "Course Metadata"
+}
