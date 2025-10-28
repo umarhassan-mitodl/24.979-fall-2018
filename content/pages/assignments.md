@@ -3,8 +3,6 @@ content_type: page
 description: A sample of the kind of optional assignments Professor Crnic assigned
   in 24.979.
 draft: false
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
